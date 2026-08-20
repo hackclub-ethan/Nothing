@@ -5,8 +5,11 @@ body {
     margin: 0;
     padding: 0;
 
-
     background-color: black;
     color: darkgray;
+
+    text-align: center;
+
+    overflow-x: hidden;
 }
 
